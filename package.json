@@ -1,0 +1,15 @@
+{
+  "name": "pwa-carapp",
+  "version": "1.0.0",
+  "description": "PWA CarApp for the training purpose",
+  "main": "index.js",
+  "dependencies": {
+    "material-design-lite": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grzegorz Wojtanowicz <wojtanowiczgrzegorz@gmail.com>",
+  "license": "MIT"
+}
